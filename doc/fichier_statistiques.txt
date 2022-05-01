@@ -1,0 +1,65 @@
+2016-11-09 ::   Nombre d'assurés crés == 21495
+                Nombre d'assurés mise-à-jour == 30320
+                Nombre d'employeurs crés == 56
+                Nombre d'employeurs mise-à-jour == 562;
+
+2016-11-09 ::   Nombre d'assurés crés == 15
+                Nombre d'assurés mise-à-jour == 40523
+                Nombre d'employeurs crés == 0
+                Nombre d'employeurs mise-à-jour == 123;
+
+2016-11-09 13:46:38 ::   Nombre d'assurés crés == 9
+                         Nombre d'assurés mise-à-jour == 7
+                         Nombre d'employeurs crés == 0
+                         Nombre d'employeurs mise-à-jour == 17;
+
+2016-11-09 13:47:44 ::   Nombre d'assurés crés == 0
+                         Nombre d'assurés mise-à-jour == 0
+                         Nombre d'employeurs crés == 0
+                         Nombre d'employeurs mise-à-jour == 0;
+
+2016-11-09 14:01:51 ::   Nombre d'assurés crés == 15
+                         Nombre d'assurés mise-à-jour == 0
+                         Nombre d'employeurs crés == 1
+                         Nombre d'employeurs mise-à-jour == 8;
+
+2016-11-09 14:14:50 ::   Nombre d'assurés crés == 12
+                         Nombre d'assurés mise-à-jour == 1
+                         Nombre d'employeurs crés == 0
+                         Nombre d'employeurs mise-à-jour == 13;
+
+2016-11-09 15:00:41 ::   Nombre d'assurés crés == 23
+                         Nombre d'assurés mise-à-jour == 1
+                         Nombre d'employeurs crés == 1
+                         Nombre d'employeurs mise-à-jour == 42;
+
+2016-11-14 08:10:22 ::   Nombre d'assurés crés == 2735
+                         Nombre d'assurés mise-à-jour == 0
+                         Nombre d'employeurs crés == 3511
+                         Nombre d'employeurs mise-à-jour == 0;
+
+2016-11-14 15:24:19 ::   Nombre d'assurés crés == 930
+                         Nombre d'assurés mise-à-jour == 0
+                         Nombre d'employeurs crés == 537
+                         Nombre d'employeurs mise-à-jour == 0;
+
+2016-11-15 09:49:06 ::   Nombre d'assurés crés == 577
+                         Nombre d'assurés mise-à-jour == 0
+                         Nombre d'employeurs crés == 579
+                         Nombre d'employeurs mise-à-jour == 0;
+
+2016-11-15 à 09:54:51 ::   Nombre d'assurés crés == 21
+                         Nombre d'assurés mise-à-jour == 2
+                         Nombre d'employeurs crés == 31
+                         Nombre d'employeurs mise-à-jour == 1;
+
+2016-11-15 à 09:56:43 ::   Nombre d'assurés crés == 2
+                           Nombre d'assurés mise-à-jour == 1
+                           Nombre d'employeurs crés == 16
+                           Nombre d'employeurs mise-à-jour == 0;
+
+2016-11-16 à 09:57:15 ::   Nombre d'assurés crés == 10
+                           Nombre d'assurés mise-à-jour == 65
+                           Nombre d'employeurs crés == 3
+                           Nombre d'employeurs mise-à-jour == 16;
+
